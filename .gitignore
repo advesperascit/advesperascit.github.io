@@ -1,0 +1,14 @@
+/public/
+/resources/
+/hugo_stats.json
+
+/.hugo_build.lock
+/.hugo-pids/
+
+.DS_Store
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+*.iml

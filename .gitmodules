@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-minima-advesperascit"]
+	path = themes/hugo-theme-minima-advesperascit
+	url = https://github.com/advesperascit/hugo-theme-minima-advesperascit
